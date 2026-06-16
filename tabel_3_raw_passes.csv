@@ -1,0 +1,241 @@
+periode,from_player,to_player,total_passes,total_assists
+A,Stephen Curry,Moses Moody,38,4
+A,Stephen Curry,Jonathan Kuminga,154,20
+A,Stephen Curry,Quinndary Weatherspoon,2,1
+A,Stephen Curry,Jordan Poole,361,43
+A,Stephen Curry,Juan Toscano-Anderson,220,21
+A,Stephen Curry,Chris Chiozza,30,3
+A,Stephen Curry,Damion Lee,130,17
+A,Stephen Curry,Gary Payton II,175,44
+A,Stephen Curry,Kevon Looney,502,53
+A,Stephen Curry,Andrew Wiggins,427,51
+A,Stephen Curry,Otto Porter Jr.,222,37
+A,Stephen Curry,Draymond Green,360,36
+A,Stephen Curry,Klay Thompson,207,39
+A,Stephen Curry,Nemanja Bjelica,227,26
+A,Stephen Curry,Andre Iguodala,122,5
+A,Andrew Wiggins,Moses Moody,33,7
+A,Andrew Wiggins,Jonathan Kuminga,45,4
+A,Andrew Wiggins,Jordan Poole,329,26
+A,Andrew Wiggins,Juan Toscano-Anderson,52,5
+A,Andrew Wiggins,Chris Chiozza,12,0
+A,Andrew Wiggins,Damion Lee,46,6
+A,Andrew Wiggins,Gary Payton II,66,7
+A,Andrew Wiggins,Kevon Looney,192,14
+A,Andrew Wiggins,Otto Porter Jr.,123,13
+A,Andrew Wiggins,Draymond Green,240,8
+A,Andrew Wiggins,Klay Thompson,96,11
+A,Andrew Wiggins,Nemanja Bjelica,37,3
+A,Andrew Wiggins,Stephen Curry,445,33
+A,Andrew Wiggins,Andre Iguodala,38,4
+A,Jordan Poole,Moses Moody,56,8
+A,Jordan Poole,Jeff Dowtin Jr.,3,0
+A,Jordan Poole,Jonathan Kuminga,132,23
+A,Jordan Poole,Quinndary Weatherspoon,3,1
+A,Jordan Poole,Juan Toscano-Anderson,225,14
+A,Jordan Poole,Chris Chiozza,34,0
+A,Jordan Poole,Damion Lee,188,17
+A,Jordan Poole,Gary Payton II,87,17
+A,Jordan Poole,Kevon Looney,264,20
+A,Jordan Poole,Andrew Wiggins,386,49
+A,Jordan Poole,Otto Porter Jr.,113,11
+A,Jordan Poole,Draymond Green,279,11
+A,Jordan Poole,Klay Thompson,142,14
+A,Jordan Poole,Nemanja Bjelica,219,15
+A,Jordan Poole,Stephen Curry,315,17
+A,Jordan Poole,Andre Iguodala,76,4
+A,Klay Thompson,Moses Moody,15,5
+A,Klay Thompson,Jonathan Kuminga,51,16
+A,Klay Thompson,Jordan Poole,80,7
+A,Klay Thompson,Juan Toscano-Anderson,25,2
+A,Klay Thompson,Damion Lee,11,3
+A,Klay Thompson,Gary Payton II,11,2
+A,Klay Thompson,Kevon Looney,65,5
+A,Klay Thompson,Andrew Wiggins,73,11
+A,Klay Thompson,Otto Porter Jr.,26,2
+A,Klay Thompson,Draymond Green,1,0
+A,Klay Thompson,Nemanja Bjelica,41,4
+A,Klay Thompson,Stephen Curry,89,9
+A,Klay Thompson,Andre Iguodala,4,0
+A,Draymond Green,Moses Moody,14,1
+A,Draymond Green,Jonathan Kuminga,11,3
+A,Draymond Green,Jordan Poole,430,43
+A,Draymond Green,Juan Toscano-Anderson,80,11
+A,Draymond Green,Chris Chiozza,46,0
+A,Draymond Green,Damion Lee,84,15
+A,Draymond Green,Gary Payton II,73,17
+A,Draymond Green,Kevon Looney,125,20
+A,Draymond Green,Andrew Wiggins,284,60
+A,Draymond Green,Otto Porter Jr.,75,9
+A,Draymond Green,Klay Thompson,4,2
+A,Draymond Green,Nemanja Bjelica,51,7
+A,Draymond Green,Stephen Curry,783,68
+A,Draymond Green,Andre Iguodala,38,1
+A,Otto Porter Jr.,Moses Moody,9,0
+A,Otto Porter Jr.,Jonathan Kuminga,29,1
+A,Otto Porter Jr.,Jordan Poole,261,12
+A,Otto Porter Jr.,Juan Toscano-Anderson,71,1
+A,Otto Porter Jr.,Chris Chiozza,29,1
+A,Otto Porter Jr.,Damion Lee,54,7
+A,Otto Porter Jr.,Gary Payton II,47,5
+A,Otto Porter Jr.,Kevon Looney,53,4
+A,Otto Porter Jr.,Andrew Wiggins,153,16
+A,Otto Porter Jr.,Draymond Green,87,4
+A,Otto Porter Jr.,Klay Thompson,47,7
+A,Otto Porter Jr.,Nemanja Bjelica,74,4
+A,Otto Porter Jr.,Stephen Curry,402,18
+A,Otto Porter Jr.,Andre Iguodala,57,1
+A,Kevon Looney,Moses Moody,33,4
+A,Kevon Looney,Jeff Dowtin Jr.,2,0
+A,Kevon Looney,Jonathan Kuminga,53,5
+A,Kevon Looney,Jordan Poole,341,22
+A,Kevon Looney,Juan Toscano-Anderson,76,1
+A,Kevon Looney,Chris Chiozza,33,2
+A,Kevon Looney,Damion Lee,41,3
+A,Kevon Looney,Gary Payton II,57,9
+A,Kevon Looney,Andrew Wiggins,283,33
+A,Kevon Looney,Otto Porter Jr.,101,12
+A,Kevon Looney,Draymond Green,272,8
+A,Kevon Looney,Klay Thompson,70,11
+A,Kevon Looney,Nemanja Bjelica,7,0
+A,Kevon Looney,Stephen Curry,545,27
+A,Kevon Looney,Andre Iguodala,25,1
+A,Damion Lee,Moses Moody,14,3
+A,Damion Lee,Jeff Dowtin Jr.,7,0
+A,Damion Lee,Jonathan Kuminga,75,6
+A,Damion Lee,Quinndary Weatherspoon,8,1
+A,Damion Lee,Jordan Poole,186,5
+A,Damion Lee,Juan Toscano-Anderson,171,4
+A,Damion Lee,Chris Chiozza,49,1
+A,Damion Lee,Gary Payton II,26,5
+A,Damion Lee,Kevon Looney,56,1
+A,Damion Lee,Andrew Wiggins,68,2
+A,Damion Lee,Otto Porter Jr.,54,5
+A,Damion Lee,Draymond Green,79,1
+A,Damion Lee,Klay Thompson,11,2
+A,Damion Lee,Nemanja Bjelica,92,1
+A,Damion Lee,Stephen Curry,126,8
+A,Damion Lee,Andre Iguodala,56,3
+A,Andre Iguodala,Moses Moody,6,1
+A,Andre Iguodala,Jonathan Kuminga,22,4
+A,Andre Iguodala,Jordan Poole,105,10
+A,Andre Iguodala,Juan Toscano-Anderson,26,1
+A,Andre Iguodala,Chris Chiozza,19,0
+A,Andre Iguodala,Damion Lee,60,7
+A,Andre Iguodala,Gary Payton II,32,7
+A,Andre Iguodala,Kevon Looney,20,1
+A,Andre Iguodala,Andrew Wiggins,56,12
+A,Andre Iguodala,Otto Porter Jr.,60,11
+A,Andre Iguodala,Draymond Green,45,4
+A,Andre Iguodala,Klay Thompson,9,1
+A,Andre Iguodala,Nemanja Bjelica,97,14
+A,Andre Iguodala,Stephen Curry,209,19
+B,Andrew Wiggins,Moses Moody,9,0
+B,Andrew Wiggins,Jonathan Kuminga,20,2
+B,Andrew Wiggins,Jordan Poole,96,5
+B,Andrew Wiggins,Juan Toscano-Anderson,5,0
+B,Andrew Wiggins,Chris Chiozza,3,0
+B,Andrew Wiggins,Damion Lee,14,0
+B,Andrew Wiggins,Gary Payton II,7,1
+B,Andrew Wiggins,Kevon Looney,22,1
+B,Andrew Wiggins,Otto Porter Jr.,15,1
+B,Andrew Wiggins,Draymond Green,52,2
+B,Andrew Wiggins,Klay Thompson,17,3
+B,Andrew Wiggins,Nemanja Bjelica,25,2
+B,Andrew Wiggins,Andre Iguodala,7,0
+B,Jordan Poole,Moses Moody,15,0
+B,Jordan Poole,Jonathan Kuminga,64,5
+B,Jordan Poole,Quinndary Weatherspoon,1,1
+B,Jordan Poole,Juan Toscano-Anderson,15,2
+B,Jordan Poole,Chris Chiozza,3,0
+B,Jordan Poole,Damion Lee,38,3
+B,Jordan Poole,Gary Payton II,27,8
+B,Jordan Poole,Kevon Looney,95,6
+B,Jordan Poole,Andrew Wiggins,118,16
+B,Jordan Poole,Otto Porter Jr.,32,2
+B,Jordan Poole,Draymond Green,189,13
+B,Jordan Poole,Klay Thompson,100,16
+B,Jordan Poole,Nemanja Bjelica,37,2
+B,Jordan Poole,Stephen Curry,4,0
+B,Jordan Poole,Andre Iguodala,14,3
+B,Klay Thompson,Moses Moody,4,0
+B,Klay Thompson,Jonathan Kuminga,10,2
+B,Klay Thompson,Jordan Poole,54,1
+B,Klay Thompson,Juan Toscano-Anderson,2,0
+B,Klay Thompson,Chris Chiozza,11,0
+B,Klay Thompson,Damion Lee,8,0
+B,Klay Thompson,Gary Payton II,21,6
+B,Klay Thompson,Kevon Looney,29,2
+B,Klay Thompson,Andrew Wiggins,18,2
+B,Klay Thompson,Otto Porter Jr.,13,2
+B,Klay Thompson,Draymond Green,47,3
+B,Klay Thompson,Nemanja Bjelica,18,4
+B,Klay Thompson,Stephen Curry,2,0
+B,Klay Thompson,Andre Iguodala,7,0
+B,Draymond Green,Moses Moody,6,1
+B,Draymond Green,Jonathan Kuminga,24,4
+B,Draymond Green,Jordan Poole,313,18
+B,Draymond Green,Juan Toscano-Anderson,4,0
+B,Draymond Green,Chris Chiozza,1,0
+B,Draymond Green,Damion Lee,34,1
+B,Draymond Green,Gary Payton II,27,3
+B,Draymond Green,Kevon Looney,21,2
+B,Draymond Green,Andrew Wiggins,65,8
+B,Draymond Green,Otto Porter Jr.,46,8
+B,Draymond Green,Klay Thompson,111,18
+B,Draymond Green,Nemanja Bjelica,9,1
+B,Draymond Green,Stephen Curry,8,0
+B,Draymond Green,Andre Iguodala,3,0
+B,Otto Porter Jr.,Jonathan Kuminga,6,0
+B,Otto Porter Jr.,Jordan Poole,79,1
+B,Otto Porter Jr.,Chris Chiozza,8,0
+B,Otto Porter Jr.,Damion Lee,9,1
+B,Otto Porter Jr.,Gary Payton II,10,0
+B,Otto Porter Jr.,Kevon Looney,9,3
+B,Otto Porter Jr.,Andrew Wiggins,29,2
+B,Otto Porter Jr.,Draymond Green,42,0
+B,Otto Porter Jr.,Klay Thompson,22,4
+B,Otto Porter Jr.,Nemanja Bjelica,17,2
+B,Otto Porter Jr.,Stephen Curry,4,0
+B,Otto Porter Jr.,Andre Iguodala,33,0
+B,Kevon Looney,Moses Moody,5,0
+B,Kevon Looney,Jonathan Kuminga,21,0
+B,Kevon Looney,Quinndary Weatherspoon,2,0
+B,Kevon Looney,Jordan Poole,110,6
+B,Kevon Looney,Juan Toscano-Anderson,3,0
+B,Kevon Looney,Damion Lee,7,2
+B,Kevon Looney,Gary Payton II,11,0
+B,Kevon Looney,Andrew Wiggins,36,5
+B,Kevon Looney,Otto Porter Jr.,15,1
+B,Kevon Looney,Draymond Green,57,0
+B,Kevon Looney,Klay Thompson,39,11
+B,Kevon Looney,Nemanja Bjelica,2,0
+B,Kevon Looney,Stephen Curry,3,0
+B,Kevon Looney,Andre Iguodala,3,1
+B,Damion Lee,Moses Moody,5,1
+B,Damion Lee,Jonathan Kuminga,16,3
+B,Damion Lee,Quinndary Weatherspoon,1,0
+B,Damion Lee,Jordan Poole,56,0
+B,Damion Lee,Juan Toscano-Anderson,20,1
+B,Damion Lee,Chris Chiozza,12,1
+B,Damion Lee,Gary Payton II,7,1
+B,Damion Lee,Kevon Looney,15,0
+B,Damion Lee,Andrew Wiggins,11,2
+B,Damion Lee,Otto Porter Jr.,5,0
+B,Damion Lee,Draymond Green,36,1
+B,Damion Lee,Klay Thompson,9,0
+B,Damion Lee,Nemanja Bjelica,18,2
+B,Damion Lee,Stephen Curry,2,0
+B,Damion Lee,Andre Iguodala,1,0
+B,Andre Iguodala,Moses Moody,2,0
+B,Andre Iguodala,Jonathan Kuminga,7,1
+B,Andre Iguodala,Jordan Poole,14,2
+B,Andre Iguodala,Chris Chiozza,6,0
+B,Andre Iguodala,Damion Lee,2,0
+B,Andre Iguodala,Gary Payton II,14,3
+B,Andre Iguodala,Kevon Looney,3,0
+B,Andre Iguodala,Andrew Wiggins,15,1
+B,Andre Iguodala,Otto Porter Jr.,23,2
+B,Andre Iguodala,Draymond Green,4,1
+B,Andre Iguodala,Klay Thompson,20,2
+B,Andre Iguodala,Nemanja Bjelica,50,3

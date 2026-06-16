@@ -1,0 +1,129 @@
+periode,from_player,to_player,total_passes,total_assists,avg_passes_per_game,avg_assists_per_game
+A,Andre Iguodala,Andrew Wiggins,56,12,0.81,0.17
+A,Andre Iguodala,Damion Lee,60,7,0.87,0.1
+A,Andre Iguodala,Draymond Green,45,4,0.65,0.06
+A,Andre Iguodala,Jordan Poole,105,10,1.52,0.14
+A,Andre Iguodala,Kevon Looney,20,1,0.29,0.01
+A,Andre Iguodala,Klay Thompson,9,1,0.13,0.01
+A,Andre Iguodala,Otto Porter Jr.,60,11,0.87,0.16
+A,Andre Iguodala,Stephen Curry,209,19,3.03,0.28
+A,Andrew Wiggins,Andre Iguodala,38,4,0.55,0.06
+A,Andrew Wiggins,Damion Lee,46,6,0.67,0.09
+A,Andrew Wiggins,Draymond Green,240,8,3.48,0.12
+A,Andrew Wiggins,Jordan Poole,329,26,4.77,0.38
+A,Andrew Wiggins,Kevon Looney,192,14,2.78,0.2
+A,Andrew Wiggins,Klay Thompson,96,11,1.39,0.16
+A,Andrew Wiggins,Otto Porter Jr.,123,13,1.78,0.19
+A,Andrew Wiggins,Stephen Curry,445,33,6.45,0.48
+A,Damion Lee,Andre Iguodala,56,3,0.81,0.04
+A,Damion Lee,Andrew Wiggins,68,2,0.99,0.03
+A,Damion Lee,Draymond Green,79,1,1.14,0.01
+A,Damion Lee,Jordan Poole,186,5,2.7,0.07
+A,Damion Lee,Kevon Looney,56,1,0.81,0.01
+A,Damion Lee,Klay Thompson,11,2,0.16,0.03
+A,Damion Lee,Otto Porter Jr.,54,5,0.78,0.07
+A,Damion Lee,Stephen Curry,126,8,1.83,0.12
+A,Draymond Green,Andre Iguodala,38,1,0.55,0.01
+A,Draymond Green,Andrew Wiggins,284,60,4.12,0.87
+A,Draymond Green,Damion Lee,84,15,1.22,0.22
+A,Draymond Green,Jordan Poole,430,43,6.23,0.62
+A,Draymond Green,Kevon Looney,125,20,1.81,0.29
+A,Draymond Green,Klay Thompson,4,2,0.06,0.03
+A,Draymond Green,Otto Porter Jr.,75,9,1.09,0.13
+A,Draymond Green,Stephen Curry,783,68,11.35,0.99
+A,Jordan Poole,Andre Iguodala,76,4,1.1,0.06
+A,Jordan Poole,Andrew Wiggins,386,49,5.59,0.71
+A,Jordan Poole,Damion Lee,188,17,2.72,0.25
+A,Jordan Poole,Draymond Green,279,11,4.04,0.16
+A,Jordan Poole,Kevon Looney,264,20,3.83,0.29
+A,Jordan Poole,Klay Thompson,142,14,2.06,0.2
+A,Jordan Poole,Otto Porter Jr.,113,11,1.64,0.16
+A,Jordan Poole,Stephen Curry,315,17,4.57,0.25
+A,Kevon Looney,Andre Iguodala,25,1,0.36,0.01
+A,Kevon Looney,Andrew Wiggins,283,33,4.1,0.48
+A,Kevon Looney,Damion Lee,41,3,0.59,0.04
+A,Kevon Looney,Draymond Green,272,8,3.94,0.12
+A,Kevon Looney,Jordan Poole,341,22,4.94,0.32
+A,Kevon Looney,Klay Thompson,70,11,1.01,0.16
+A,Kevon Looney,Otto Porter Jr.,101,12,1.46,0.17
+A,Kevon Looney,Stephen Curry,545,27,7.9,0.39
+A,Klay Thompson,Andre Iguodala,4,0,0.06,0.0
+A,Klay Thompson,Andrew Wiggins,73,11,1.06,0.16
+A,Klay Thompson,Damion Lee,11,3,0.16,0.04
+A,Klay Thompson,Draymond Green,1,0,0.01,0.0
+A,Klay Thompson,Jordan Poole,80,7,1.16,0.1
+A,Klay Thompson,Kevon Looney,65,5,0.94,0.07
+A,Klay Thompson,Otto Porter Jr.,26,2,0.38,0.03
+A,Klay Thompson,Stephen Curry,89,9,1.29,0.13
+A,Otto Porter Jr.,Andre Iguodala,57,1,0.83,0.01
+A,Otto Porter Jr.,Andrew Wiggins,153,16,2.22,0.23
+A,Otto Porter Jr.,Damion Lee,54,7,0.78,0.1
+A,Otto Porter Jr.,Draymond Green,87,4,1.26,0.06
+A,Otto Porter Jr.,Jordan Poole,261,12,3.78,0.17
+A,Otto Porter Jr.,Kevon Looney,53,4,0.77,0.06
+A,Otto Porter Jr.,Klay Thompson,47,7,0.68,0.1
+A,Otto Porter Jr.,Stephen Curry,402,18,5.83,0.26
+A,Stephen Curry,Andre Iguodala,122,5,1.77,0.07
+A,Stephen Curry,Andrew Wiggins,427,51,6.19,0.74
+A,Stephen Curry,Damion Lee,130,17,1.88,0.25
+A,Stephen Curry,Draymond Green,360,36,5.22,0.52
+A,Stephen Curry,Jordan Poole,361,43,5.23,0.62
+A,Stephen Curry,Kevon Looney,502,53,7.28,0.77
+A,Stephen Curry,Klay Thompson,207,39,3.0,0.57
+A,Stephen Curry,Otto Porter Jr.,222,37,3.22,0.54
+B,Andre Iguodala,Andrew Wiggins,15,1,1.15,0.08
+B,Andre Iguodala,Damion Lee,2,0,0.15,0.0
+B,Andre Iguodala,Draymond Green,4,1,0.31,0.08
+B,Andre Iguodala,Jordan Poole,14,2,1.08,0.15
+B,Andre Iguodala,Kevon Looney,3,0,0.23,0.0
+B,Andre Iguodala,Klay Thompson,20,2,1.54,0.15
+B,Andre Iguodala,Otto Porter Jr.,23,2,1.77,0.15
+B,Andrew Wiggins,Andre Iguodala,7,0,0.54,0.0
+B,Andrew Wiggins,Damion Lee,14,0,1.08,0.0
+B,Andrew Wiggins,Draymond Green,52,2,4.0,0.15
+B,Andrew Wiggins,Jordan Poole,96,5,7.38,0.38
+B,Andrew Wiggins,Kevon Looney,22,1,1.69,0.08
+B,Andrew Wiggins,Klay Thompson,17,3,1.31,0.23
+B,Andrew Wiggins,Otto Porter Jr.,15,1,1.15,0.08
+B,Damion Lee,Andre Iguodala,1,0,0.08,0.0
+B,Damion Lee,Andrew Wiggins,11,2,0.85,0.15
+B,Damion Lee,Draymond Green,36,1,2.77,0.08
+B,Damion Lee,Jordan Poole,56,0,4.31,0.0
+B,Damion Lee,Kevon Looney,15,0,1.15,0.0
+B,Damion Lee,Klay Thompson,9,0,0.69,0.0
+B,Damion Lee,Otto Porter Jr.,5,0,0.38,0.0
+B,Draymond Green,Andre Iguodala,3,0,0.23,0.0
+B,Draymond Green,Andrew Wiggins,65,8,5.0,0.62
+B,Draymond Green,Damion Lee,34,1,2.62,0.08
+B,Draymond Green,Jordan Poole,313,18,24.08,1.38
+B,Draymond Green,Kevon Looney,21,2,1.62,0.15
+B,Draymond Green,Klay Thompson,111,18,8.54,1.38
+B,Draymond Green,Otto Porter Jr.,46,8,3.54,0.62
+B,Jordan Poole,Andre Iguodala,14,3,1.08,0.23
+B,Jordan Poole,Andrew Wiggins,118,16,9.08,1.23
+B,Jordan Poole,Damion Lee,38,3,2.92,0.23
+B,Jordan Poole,Draymond Green,189,13,14.54,1.0
+B,Jordan Poole,Kevon Looney,95,6,7.31,0.46
+B,Jordan Poole,Klay Thompson,100,16,7.69,1.23
+B,Jordan Poole,Otto Porter Jr.,32,2,2.46,0.15
+B,Kevon Looney,Andre Iguodala,3,1,0.23,0.08
+B,Kevon Looney,Andrew Wiggins,36,5,2.77,0.38
+B,Kevon Looney,Damion Lee,7,2,0.54,0.15
+B,Kevon Looney,Draymond Green,57,0,4.38,0.0
+B,Kevon Looney,Jordan Poole,110,6,8.46,0.46
+B,Kevon Looney,Klay Thompson,39,11,3.0,0.85
+B,Kevon Looney,Otto Porter Jr.,15,1,1.15,0.08
+B,Klay Thompson,Andre Iguodala,7,0,0.54,0.0
+B,Klay Thompson,Andrew Wiggins,18,2,1.38,0.15
+B,Klay Thompson,Damion Lee,8,0,0.62,0.0
+B,Klay Thompson,Draymond Green,47,3,3.62,0.23
+B,Klay Thompson,Jordan Poole,54,1,4.15,0.08
+B,Klay Thompson,Kevon Looney,29,2,2.23,0.15
+B,Klay Thompson,Otto Porter Jr.,13,2,1.0,0.15
+B,Otto Porter Jr.,Andre Iguodala,33,0,2.54,0.0
+B,Otto Porter Jr.,Andrew Wiggins,29,2,2.23,0.15
+B,Otto Porter Jr.,Damion Lee,9,1,0.69,0.08
+B,Otto Porter Jr.,Draymond Green,42,0,3.23,0.0
+B,Otto Porter Jr.,Jordan Poole,79,1,6.08,0.08
+B,Otto Porter Jr.,Kevon Looney,9,3,0.69,0.23
+B,Otto Porter Jr.,Klay Thompson,22,4,1.69,0.31
