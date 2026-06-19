@@ -1,29 +1,3 @@
-"""
-=============================================================================
-SCRIPT LENGKAP — Makalah IF1220 Matematika Diskrit
-"Analisis Komparatif Graf dan Kombinatorika terhadap Struktur Jaringan Operan
-Tim Bola Basket: Efek Curry pada Motion Offense Golden State Warriors"
-
-CARA PAKAI:
-  1. pip install nba_api pandas networkx matplotlib
-  2. python makalah_gsw_full.py
-  3. Tunggu ~5 menit (ada rate limiting dari NBA API)
-  4. Semua output (CSV + PNG) akan muncul di folder yang sama
-
-OUTPUT:
-  tabel_1_rotation_players.csv
-  tabel_2_periods.csv
-  tabel_3_raw_passes.csv
-  tabel_4_normalized_passes.csv
-  tabel_5_degree_comparison.csv
-  tabel_6_density.csv
-  tabel_7_active_triangles.csv
-  tabel_8_combinatorial_summary.csv
-  gambar_1_graf_periode_A.png
-  gambar_2_graf_periode_B.png
-=============================================================================
-"""
-
 import json, math, time, itertools, os
 import pandas as pd
 import networkx as nx
